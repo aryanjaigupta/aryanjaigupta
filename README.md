@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Aryan Gupta</h1><br><h3 align="center">Data Analytics | Business Intelligence | Marketing Analytics</h3><br><br>📍 Kolkata, India<br>📧 [aryanjaigupta@zohomail.in]<br><br>---<br><br># 🚀 About Me<br><br>MBA candidate specializing in **Marketing Management & Business Analytics** with experience in **data-driven sales strategy, customer analytics, and business intelligence**.<br><br>I enjoy transforming raw data into **actionable insights that drive business decisions**.<br><br>* 🔍 Interested in **Data Analytics, BI, and Marketing Intelligence**<br>* 📊 Skilled in **SQL, Python, Power BI, and Statistical Analysis**<br>* 📈 Experience with **customer segmentation and predictive analytics**<br>* ☁️ AWS Cloud Foundations Certified<br><br>---<br><br># 🛠 Skills<br><br>### Programming & Query<br><br>* SQL<br>* Python (Pandas, NumPy, Matplotlib, Scikit-learn)<br><br>### Data Visualization<br><br>* Power BI<br>* Excel (Advanced)<br>* Google Data Studio<br><br>### Analytics<br><br>* Customer Segmentation<br>* Regression Analysis<br>* A/B Testing<br>* Predictive Analytics<br><br>### Platforms<br><br>* AWS Cloud<br>* Salesforce CRM<br>* Business Intelligence Tools<br><br>---<br><br># 💼 Experience<br><br>### Financial Services Consultant – Trainee<br><br>ICICI Prudential Life Insurance<br><br>* Managed bancassurance distribution across multiple bank branches<br>* Used CRM data to segment customers and optimize outreach<br>* Designed data-driven customer engagement strategies<br>* Delivered financial advisory sessions for 100+ customers<br><br>---<br><br>### Sales & Marketing Analyst Intern<br><br>Pantaloons (Aditya Birla Fashion & Retail)<br><br>* Developed data-backed sales strategies improving revenue by **15%**<br>* Conducted customer behavior analysis and market research<br>* Used analytics to improve campaign effectiveness and merchandising strategy<br><br>---<br><br># 📊 Projects<br><br>### Cryptocurrency Market Analysis<br><br>Analyzed 1-year cryptocurrency price data to identify volatility patterns and market trends.<br><br>Key highlights:<br><br>* Created visual dashboards to explain investment risk<br>* Identified volatility clusters related to macroeconomic events<br><br>---<br><br>### Pantaloons Market Research Strategy<br><br>Conducted competitive analysis and customer segmentation to improve digital strategy.<br><br>Results:<br><br>* Proposed loyalty program improvements<br>* Identified digital growth opportunities<br><br>---<br><br># 📈 GitHub Stats<br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME\&show_icons=true\&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME\&layout=compact\&theme=tokyonight)<br><br>---<br><br># 🌐 Connect With Me<br><br>LinkedIn: https://linkedin.com/in/aryan-jaigupta<br>Email: [aryanjaigupta@zohomail.in]<br><br>---<br><br>⭐ Always interested in collaborating on **data analytics and business intelligence projects**<br>
 
-<!--
-**aryanjaigupta/aryanjaigupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryangupta0302) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanjaigupta) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/aryanjaigupta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aryanjaigupta) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@aryangupta0302) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanjaigupta@zohomail.in) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aryanjaigupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aryanjaigupta&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanjaigupta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aryanjaigupta&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aryangupta0302) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
